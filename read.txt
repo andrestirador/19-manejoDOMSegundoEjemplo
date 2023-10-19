@@ -1,0 +1,23 @@
+//Seleccionar Items x Id -Class- All
+
+//Modificar Items
+
+// Modificar Atributos y Clases
+
+// - Estilos
+
+// Crear y Eliminar Elementos del DOM
+
+// - Eliminar elementos
+
+// - Crear Elemento
+
+// Eventos en el DOM
+
+// Evento con parámetros
+
+// Crear una lista dinámica
+
+// Filtrado de elementos del DOM
+
+// Drag and Drop
